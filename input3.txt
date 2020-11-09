@@ -1,0 +1,10 @@
+then	4
+after	55
+it	98
+was	727
+done	415
+noone	909
+heard	22
+from	166
+him	374
+again	1

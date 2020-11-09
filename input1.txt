@@ -1,0 +1,10 @@
+Once	100
+upon	345
+a	23
+time	123
+there	3
+was	9
+a	66
+computer	44
+science	8
+student	10
